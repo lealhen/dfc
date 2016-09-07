@@ -6,9 +6,11 @@
  * Time: 9:46 AM
  */
 $servername = "localhost";
-$username = "root";
+//$username = "root";
+$username = "u985821698_root";
 $password = "r00tb33r";
-$dbname = "dfc";
+//$dbname = "dfc";
+$dbname = "u985821698_dfc";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
